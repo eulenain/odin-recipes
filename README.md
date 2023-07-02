@@ -12,3 +12,5 @@ Then I went on to add an image to the index file, as well as to the new recipe p
 I also added two more recipes following the same pattern I had done with the first recipe page.
 
 At the end I put the links in an unordered list so that they wouldn't be all in one line.
+
+After I learned more about CSS and cascades, I redesigned the page with the simple concepts that I learned.
